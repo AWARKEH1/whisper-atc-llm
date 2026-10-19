@@ -1,0 +1,11 @@
+openai-whisper
+torch
+transformers>=4.40
+peft
+datasets
+accelerate
+jiwer
+editdistance
+pandas
+tqdm
+pytest
